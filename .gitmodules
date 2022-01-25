@@ -1,6 +1,9 @@
+
 [submodule "LC-Solutions"]
 	path = LC-Solutions
 	url = git@github.com:caio-x/LC-Solutions.git
+	branch = main
 [submodule "Arithmetic"]
 	path = Arithmetic
 	url = git@github.com:caio-x/Arithmetic.git
+	branch = main
