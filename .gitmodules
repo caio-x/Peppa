@@ -7,3 +7,7 @@
 	path = Arithmetic
 	url = git@github.com:caio-x/Arithmetic.git
 	branch = main
+[submodule "LC-Series"]
+	path = LC-Series
+	url = git@github.com:caio-x/LC-Series.git
+	branch = main
